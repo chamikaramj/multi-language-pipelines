@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.beam:beam-sdks-java-extensions-arrow:2.32.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/beam/beam-sdks-java-extensions-arrow/2.32.0-SNAPSHOT/beam-sdks-java-extensions-arrow-2.32.0-20210721.070348-12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/beam/beam-sdks-java-extensions-arrow/2.32.0-SNAPSHOT/beam-sdks-java-extensions-arrow-2.32.0-20210721.070348-12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/beam/beam-sdks-java-extensions-arrow/2.32.0-SNAPSHOT/beam-sdks-java-extensions-arrow-2.32.0-20210721.070348-12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
