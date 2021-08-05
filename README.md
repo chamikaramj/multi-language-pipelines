@@ -7,11 +7,11 @@
 
 * Start the expansion service by running script *start_expansion_service.sh*
 
-* To run the pipeline using DirectRunner, run corresponding *run_<example>_direct.sh* script.
+* To run the pipeline using DirectRunner, run corresponding *run_\<example\>_direct.sh* script.
 
 * To run the pipeline using DataflowRunner,
   * Follow the instructions [here](https://cloud.google.com/dataflow/docs/quickstarts/quickstart-python) to setup a GCP project
-  * Open the corresponding *run_<example>_dataflow.sh* script
+  * Open the corresponding *run_\<example\>_dataflow.sh* script
   * Update the enironment variables at the top of the script.
   * Save and run the script.
 
